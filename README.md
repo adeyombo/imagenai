@@ -1,4 +1,4 @@
-# ImaGen AI by Adebola Adeyombo
+# ImaGen AI MERN Stack App
 
 A full stack MERN AI image generation app powered By DALL-E. Built using the following technologies:
 - React JS
